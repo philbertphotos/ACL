@@ -4,6 +4,8 @@ ACL
 C'est une classe PHP très simple qui utilise le système role/ressource.
 Un système de scope permet de diviser les droits en module.
 
+Pour un système d'ACL plus complet, utilisez plutôt [acl-manager](https://github.com/matthieuy/acl-manager)
+
 Utilisation
 ===========
 ```php
